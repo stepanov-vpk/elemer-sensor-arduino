@@ -6,7 +6,7 @@
 
 Подключение термометра сопротивления к Arduino Nano основано на использовании делителя напряжения. Измеренное значение сопротивления преобразовывается в значение температуры и отображается на ЖК-дисплее LCD1602.
 
-![Image alt](https://github.com/stepanov-vpk/elemer-sensor-arduino/blob/main/img/scheme.png?raw=true)
+![Image alt](https://github.com/stepanov-vpk/elemer-sensor-arduino/blob/main/img/schematic.png?raw=true)
 
 Для определения температуры будет использоваться таблица температурных значений при различных значениях сопротивления термометров сопротивления с НСХ 50М.
 
