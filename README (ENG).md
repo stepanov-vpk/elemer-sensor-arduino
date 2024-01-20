@@ -6,7 +6,7 @@ The purpose of this development is to use the development board of the AVR famil
 
 Connecting a resistance thermometer to the Arduino Nano is based on the use of a voltage divider. The measured resistance value is converted into a temperature value and displayed on the LCD1602.
 
-![Image alt](https://github.com/stepanov-vpk/elemer-sensor-arduino/blob/main/img/scheme.png?raw=true)
+![Image alt](https://github.com/stepanov-vpk/elemer-sensor-arduino/blob/main/img/schematic.png?raw=true)
 
 To determine the temperature, a table of temperature values will be used for various resistance values of resistance thermometers with NSKH 50M.
 
